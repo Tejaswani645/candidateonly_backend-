@@ -1,4 +1,6 @@
-# Campaign Events HTTP Service
+# Campaign Events HTTP Service (`candidateonly_backend-`)
+
+**Repository**: [`candidateonly_backend-`](https://github.com/Tejaswani645/candidateonly_backend-)
 
 A high-performance, thread-safe Go HTTP service designed to ingest delivery provider webhook events and serve campaign metrics to marketers.
 

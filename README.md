@@ -1,5 +1,11 @@
 # Campaign Events — Engineering Assignment Submission
 
+**Repository Name**: [`candidateonly_backend-`](https://github.com/Tejaswani645/candidateonly_backend-)  
+**GitHub URL**: [https://github.com/Tejaswani645/candidateonly_backend-](https://github.com/Tejaswani645/candidateonly_backend-)  
+**Author**: [Tejaswani645](https://github.com/Tejaswani645)
+
+---
+
 This repository contains the complete solution for the Relay Campaign Events engineering assignment, built in Go.
 
 ---
